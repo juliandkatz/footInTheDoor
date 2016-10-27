@@ -1,0 +1,19 @@
+{
+  "name": "footinthedoor",
+  "version": "1.0.0",
+  "description": "A node server which automatically will enter a ticket queue ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliankatz1991/footInTheDoor.git"
+  },
+  "author": "Julian Katz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliankatz1991/footInTheDoor/issues"
+  },
+  "homepage": "https://github.com/juliankatz1991/footInTheDoor#readme"
+}
